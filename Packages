@@ -85,13 +85,3 @@ Author: lordscotland
 Section: Utilities
 Maintainer: NeutronFile
 Depends: firmware (>= 4.0), system-cmds
-
-Package: com.ammaripa.DeadTweak14
-Name:DeadTweak14
-Version:1.7.1
-Filename: com.ammaripa.deadtweak14_1.7.1_iphoneos-arm.deb
-Size: 5795762 Bytes
-Depends: firmware (>= 10.0), mobilesubstrate, sed
-MD5sum: fd398fafff3daec2035227d8723eec40
-SHA1: 45974a2181a99cfecc4d8114ba7a941acf238991
-SHA256: e3b91949a45695a0edeb6c602fd335e8c9377af12d5682a859b5d5ac041010eb
